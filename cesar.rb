@@ -30,7 +30,7 @@ string.each_char do |c|
     newstring+=c
   end
 
-puts newstring
+#puts newstring
 end
 
 newstring
@@ -38,7 +38,7 @@ newstring
 end
 
 
-example="THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"
-example="computer"
-puts example
-puts cesar(example,7)
+#example="THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"
+#example="computer"
+#puts example
+#puts cesar(example,7)
